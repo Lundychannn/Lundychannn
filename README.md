@@ -4,7 +4,7 @@ HI, LUNDY HERE
 ## Platforms & Tools
 
 #### Editor
-[![Static Badge](https://img.shields.io/badge/Sonoma-macOS?style=flat&logo=apple&label=macOS&color=%23A5D6A7&link=https%3A%2F%2Fwww.apple.com%2Fmacos%2Fsonoma%2F)](https://www.apple.com/macos/sequoia/)
+[![Static Badge](https://img.shields.io/badge/Sequoia-macOS?style=flat&logo=apple&label=macOS&color=%23A5D6A7&link=https%3A%2F%2Fwww.apple.com%2Fmacos%2Fsequoia%2F)](https://www.apple.com/macos/sequoia/)
 ![Static Badge](https://img.shields.io/badge/VSCode-IDE?style=flat&logo=Visual-Studio-Code&label=IDE&color=%234884B5)
 
 
