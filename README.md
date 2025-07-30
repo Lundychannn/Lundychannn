@@ -23,3 +23,5 @@ HI, LUNDY HERE
 ![Static Badge](https://img.shields.io/badge/Figma-%23D68BA4?logo=Figma&logoColor=white&color=%23D68BA4)
 ![Static Badge](https://img.shields.io/badge/Blender-%23F5A035?logo=Blender&logoColor=white&color=%23F5A035)
 
+---
+![Email signature](./assets/signature.png)
