@@ -22,4 +22,4 @@ HI, LUNDY HERE
 ![Static Badge](https://img.shields.io/badge/Figma-%23D68BA4?logo=Figma&logoColor=white&color=%23D68BA4)
 
 ---
-![Email signature](./Signature.png)
+![Email signature](./signature.png)
