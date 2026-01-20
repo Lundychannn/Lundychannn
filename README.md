@@ -18,10 +18,8 @@ HI, LUNDY HERE
 #### Edit with
 ![Static Badge](https://img.shields.io/badge/Photoshop-%23578CB6?logo=AdobePhotoshop&logoColor=white&color=%23578CB6)
 ![Static Badge](https://img.shields.io/badge/AdobeIllustrator-%23ED9F3B?logo=AdobeIllustrator&logoColor=white&color=%23ED9F3B)
-![Static Badge](https://img.shields.io/badge/AfterEffects-%237150B2?logo=AdobeAfterEffects&logoColor=white&color=%237150B2)
 ![Static Badge](https://img.shields.io/badge/Framer-%2355C4D2?logo=Framer&logoColor=white&color=%2355C4D2)
 ![Static Badge](https://img.shields.io/badge/Figma-%23D68BA4?logo=Figma&logoColor=white&color=%23D68BA4)
-![Static Badge](https://img.shields.io/badge/Blender-%23F5A035?logo=Blender&logoColor=white&color=%23F5A035)
 
 ---
 ![Email signature](./Signature.png)
